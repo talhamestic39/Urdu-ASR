@@ -4,6 +4,6 @@ Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with hugs Transformers Wav2Vec2 is 
 
 Similar to Wav2Vec2, XLSR-Wav2Vec2 learns powerful speech representations from hundreds of thousands of hours of speech in more than 50 languages of unlabeled speech. Similar, to BERT's masked language modeling, the model learns contextualized speech representations by randomly masking feature vectors before passing them to a transformer network.
 
-  1.  To Complete run this you need to upload the Audios and Transcriptions for both test and train,
-  2.  It was written generic so make sure to mount google drive and provide the path of Audios and Transcriptions available in drive
-  3.  Checkpoint will be saved in your GDrive
+    To Complete run this you need to upload the Audios and Transcriptions for both test and train,
+    It was written generic so make sure to mount google drive and provide the path of Audios and Transcriptions available in drive
+    Checkpoint will be saved in your GDrive
